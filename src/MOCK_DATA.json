@@ -1,0 +1,2065 @@
+{
+  "body": [
+    {
+      "id": 996,
+      "codice": "P_13FC",
+      "descrizione": "13FC-Mente Serena Premium",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 958,
+      "codice": "P_13NC",
+      "descrizione": "13NC-Mente Serena Premium",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 995,
+      "codice": "P_15BC",
+      "descrizione": "15BC-Mente Serena Easy",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1037,
+      "codice": "16DB",
+      "descrizione": "16DB-TCM cap. dec. P.Unico",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1047,
+      "codice": "17AR",
+      "descrizione": "17AR - TCM cap. dec. P.Unico",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1048,
+      "codice": "17IC",
+      "descrizione": "17IC - TCM cap. dec. P.Unico",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 455,
+      "codice": "180X.",
+      "descrizione": "180X-TCM DI GRUPPO 180X",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 456,
+      "codice": "180Y.",
+      "descrizione": "180Y-TCM DI GRUPPO 180Y",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 457,
+      "codice": "181X.",
+      "descrizione": "181X-TCM DI GRUPPO 181X",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 458,
+      "codice": "181Y.",
+      "descrizione": "181Y-TCM DI GRUPPO 181Y",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 551,
+      "codice": "000091",
+      "descrizione": "ABITO",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 880,
+      "codice": "000131",
+      "descrizione": "AD HOC AUTO PLUS 2 R.93",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 473,
+      "codice": "000124",
+      "descrizione": "AD HOC AUTO PLUS R.93",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 470,
+      "codice": "000110",
+      "descrizione": "AD HOC AUTO R.93",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 881,
+      "codice": "000122",
+      "descrizione": "AD HOC DUE RUOTE",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 882,
+      "codice": "000129",
+      "descrizione": "AD HOC DUE RUOTE PLUS",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 478,
+      "codice": "000130",
+      "descrizione": "AD HOC / GUIDAMICA VEICOLI STORICI",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 15,
+      "codice": "000152",
+      "descrizione": "Ad hoc unico",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 24,
+      "codice": "000114",
+      "descrizione": "Ad hoc unico Natanti",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 885,
+      "codice": "000149",
+      "descrizione": "AD HOC VEICOLI PLUS 2",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 883,
+      "codice": "000127",
+      "descrizione": "AD HOC VEICOLI PLUS R90",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 471,
+      "codice": "000111",
+      "descrizione": "AD HOC VEICOLI R.90",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 14,
+      "codice": "041",
+      "descrizione": "Agrirama",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 894,
+      "codice": "000160",
+      "descrizione": "Agrirama NT",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 977,
+      "codice": "000512",
+      "descrizione": "AGRISTART",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 28,
+      "codice": "026",
+      "descrizione": "AIRBAG duemila",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 105,
+      "codice": "CAU110",
+      "descrizione": "Appalti CAU110",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 109,
+      "codice": "CAU120",
+      "descrizione": "Appalti Indirette CAU120",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 964,
+      "codice": "168",
+      "descrizione": "ASSICRA",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1063,
+      "codice": "001028",
+      "descrizione": "ASSI Future",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 107,
+      "codice": "CAU130",
+      "descrizione": "Assimilate agli appalti CAU130",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 1024,
+      "codice": "000517",
+      "descrizione": "Autocontrollo 2.0",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 939,
+      "codice": "000506",
+      "descrizione": "Autocontrollo2-0",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 1082,
+      "codice": "000524",
+      "descrizione": "Autocontrollo Autovetture 2022",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 1030,
+      "codice": "000519",
+      "descrizione": "AUTOSTART Flexi",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 1067,
+      "codice": "000520",
+      "descrizione": "Benessere Impresa",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 1042,
+      "codice": "171",
+      "descrizione": "CASA SENZA CONFINI",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 93,
+      "codice": "086",
+      "descrizione": "Cauzionale per agenzie di viaggio e turismo",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 537,
+      "codice": "000128",
+      "descrizione": "CAUZIONI",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 128,
+      "codice": "CAUDAL",
+      "descrizione": "Cauzioni delega altrui",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 116,
+      "codice": "CAU190",
+      "descrizione": "Cauzioni generiche CAU190",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 114,
+      "codice": "CAU170",
+      "descrizione": "Cauzioni giudiziali CAU170",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 127,
+      "codice": "CAU000",
+      "descrizione": "Cauzioni Migrazione CAU000",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 891,
+      "codice": "CAUGA0",
+      "descrizione": "Cauzioni Migrazione CAUGA0",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 72,
+      "codice": "000062",
+      "descrizione": "Chiara cristalli indicizzato",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 1040,
+      "codice": "001040",
+      "descrizione": "Collettiva",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1059,
+      "codice": "000061",
+      "descrizione": "Commercio Oro Usato",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 492,
+      "codice": "CONCAU",
+      "descrizione": "Contenitore Cauzioni",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 103,
+      "codice": "CONCRE",
+      "descrizione": "Contenitore Credito",
+      "categoria": "Credito",
+      "idCategoria": 14
+    },
+    {
+      "id": 16,
+      "codice": "CONFUR",
+      "descrizione": "Contenitore Furto",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 491,
+      "codice": "CONGRA",
+      "descrizione": "Contenitore Grandine",
+      "categoria": "Grandine",
+      "idCategoria": 13
+    },
+    {
+      "id": 17,
+      "codice": "CONINC",
+      "descrizione": "Contenitore Incendio",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 18,
+      "codice": "CONINF",
+      "descrizione": "Contenitore Infortuni",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 21,
+      "codice": "CONMAL",
+      "descrizione": "Contenitore Malattie",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 19,
+      "codice": "CONMUL",
+      "descrizione": "Contenitore Multirischio",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 22,
+      "codice": "CONRCD",
+      "descrizione": "Contenitore RCD",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 1015,
+      "codice": "001015",
+      "descrizione": "Contenitore RE (Arezzo)",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 102,
+      "codice": "CONTEK",
+      "descrizione": "Contenitore Rischi Tecnologici",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 955,
+      "codice": "098",
+      "descrizione": "Contenitore Trasporti GT",
+      "categoria": "Trasporti",
+      "idCategoria": 15
+    },
+    {
+      "id": 23,
+      "codice": "CONTUT",
+      "descrizione": "Contenitore tutela",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 496,
+      "codice": "CONVEI",
+      "descrizione": "Contenitore Veicoli",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 119,
+      "codice": "CAU210",
+      "descrizione": "Contratti estero CAU210",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 122,
+      "codice": "CAU220",
+      "descrizione": "Contratti estero indir CAU220",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 1077,
+      "codice": "000523",
+      "descrizione": "Contratto Base",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 1072,
+      "codice": "000522",
+      "descrizione": "Contratto Base - DA BUTTARE",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 97,
+      "codice": "102",
+      "descrizione": "Contributi fondo perduto mercato agricolo",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 55,
+      "codice": "022514",
+      "descrizione": "Convenzione Esso",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 483,
+      "codice": "034",
+      "descrizione": "COPERTURA PROVV. CRISTALLI",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 486,
+      "codice": "038",
+      "descrizione": "COPERTURA PROVV. ELETTRONICA",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 481,
+      "codice": "032",
+      "descrizione": "COPERTURA PROVV. FURTO",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 465,
+      "codice": "031",
+      "descrizione": "COPERTURA PROVV. INCENDIO",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 485,
+      "codice": "036",
+      "descrizione": "COPERTURA PROVV. INFORTUNI",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 482,
+      "codice": "033",
+      "descrizione": "COPERTURA PROVV. RC GENERALE",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 484,
+      "codice": "035",
+      "descrizione": "COPERTURA PROVV. SALUTE",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 487,
+      "codice": "037",
+      "descrizione": "COPERTURA PROVV. TRASPORTI",
+      "categoria": "Trasporti",
+      "idCategoria": 15
+    },
+    {
+      "id": 546,
+      "codice": "042",
+      "descrizione": "Copia di Agrirama",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 1007,
+      "codice": "000173",
+      "descrizione": "CPI FORMULA BUSINESS",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 980,
+      "codice": "000171",
+      "descrizione": "CPI FORMULA MUTUO",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 1006,
+      "codice": "000172",
+      "descrizione": "CPI FORMULA PERSONA",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 912,
+      "codice": "000169",
+      "descrizione": "CPI Mutui Tercas",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 911,
+      "codice": "000166",
+      "descrizione": "CPI Prestiti",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 129,
+      "codice": "CRE000",
+      "descrizione": "Credito migrazione CRE000",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 1052,
+      "codice": "001024",
+      "descrizione": "Credit Protection",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 536,
+      "codice": "000126",
+      "descrizione": "DANNI",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 56,
+      "codice": "099010",
+      "descrizione": "Decennale postuma",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 100,
+      "codice": "104",
+      "descrizione": "Decennale postuma danni diretti immobile",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 1070,
+      "codice": "000521",
+      "descrizione": "Deutche bank",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 1039,
+      "codice": "000165",
+      "descrizione": "DINAMICA BUSINESS 360",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 981,
+      "codice": "000162",
+      "descrizione": "DINAMICA FULL ATTIVITA'",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 5,
+      "codice": "000159",
+      "descrizione": "Dinamica Plus Albergo",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 498,
+      "codice": "000498",
+      "descrizione": "DINAMICA PLUS Commercio",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 8,
+      "codice": "000161",
+      "descrizione": "Dinamica plus Impresa",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1081,
+      "codice": "014",
+      "descrizione": "Dinamica Plus Ufficio",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 112,
+      "codice": "CAU370",
+      "descrizione": "Dir dog (leg 427/93) CAU370",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 117,
+      "codice": "CAU390",
+      "descrizione": "Diritti dog altre dest CAU390",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 108,
+      "codice": "CAU340",
+      "descrizione": "Diritti doganali CAU340",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 115,
+      "codice": "CAU380",
+      "descrizione": "Diritti Doganali CAU380",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 110,
+      "codice": "CAU350",
+      "descrizione": "Diritti doganali indir. CAU350",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 121,
+      "codice": "CAU310",
+      "descrizione": "Doganali CAU310",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 552,
+      "codice": "000100",
+      "descrizione": "Emporium",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 111,
+      "codice": "CAU140",
+      "descrizione": "Esattoriali CAU140",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 41,
+      "codice": "000081",
+      "descrizione": "Essere Donna",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 42,
+      "codice": "000079",
+      "descrizione": "Famiglia sicura nel traffico",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1017,
+      "codice": "000515",
+      "descrizione": "Full Cover Auto Sicura",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 44,
+      "codice": "028",
+      "descrizione": "Furto GA",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 73,
+      "codice": "000066",
+      "descrizione": "Furto incendio abbinata",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 46,
+      "codice": "099022",
+      "descrizione": "Furto/Infedelta'",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 47,
+      "codice": "000060",
+      "descrizione": "Furto NT",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 58,
+      "codice": "099027",
+      "descrizione": "Furto/Rischi agricoli",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 130,
+      "codice": "CAU400",
+      "descrizione": "Garanzie finanziarie CAU400",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 1036,
+      "codice": "0102",
+      "descrizione": "Globale GTYACHT",
+      "categoria": "Trasporti",
+      "idCategoria": 15
+    },
+    {
+      "id": 950,
+      "codice": "096",
+      "descrizione": "Globale Trasporti",
+      "categoria": "Trasporti",
+      "idCategoria": 15
+    },
+    {
+      "id": 902,
+      "codice": "000902",
+      "descrizione": "GRANDINE",
+      "categoria": "Grandine",
+      "idCategoria": 13
+    },
+    {
+      "id": 548,
+      "codice": "019",
+      "descrizione": "Groupama Auto",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 553,
+      "codice": "091",
+      "descrizione": "Groupama Casa",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 878,
+      "codice": "025",
+      "descrizione": "Groupama Commercio",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 32,
+      "codice": "101",
+      "descrizione": "Groupama Globale Fabbricati",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1003,
+      "codice": "105",
+      "descrizione": "Groupama Globale Fabbricati 2016",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 25,
+      "codice": "012",
+      "descrizione": "Groupama Professioni",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1022,
+      "codice": "000164",
+      "descrizione": "Groupama Protezione Fabbricati",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 36,
+      "codice": "013",
+      "descrizione": "Groupama Ufficio",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 941,
+      "codice": "095",
+      "descrizione": "GT YACHT",
+      "categoria": "Trasporti",
+      "idCategoria": 15
+    },
+    {
+      "id": 64,
+      "codice": "000034",
+      "descrizione": "Guasti alle macchine",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 494,
+      "codice": "099078",
+      "descrizione": "Guasti macchina",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 514,
+      "codice": "047",
+      "descrizione": "Guasti Macchine",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 29,
+      "codice": "OLD019",
+      "descrizione": "Guida Gan Autoglobale",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 1084,
+      "codice": "000525",
+      "descrizione": "Guidamica Autovetture 2022",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 952,
+      "codice": "000507",
+      "descrizione": "Guidamica Earnix",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 1016,
+      "codice": "000142",
+      "descrizione": "Guidamica Pluriveicolare Facile.it",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 131,
+      "codice": "000139",
+      "descrizione": "Guidamica Pluriveicolari",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 1027,
+      "codice": "000518",
+      "descrizione": "Guidamica - Veicoli",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 52,
+      "codice": "000500",
+      "descrizione": "Guidamica--Veicoli",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 1014,
+      "codice": "000514",
+      "descrizione": "Guidamica - Veicoli 8100 Arezzo",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 500,
+      "codice": "000132",
+      "descrizione": "Guidamica Veicoli Storici",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 30,
+      "codice": "000109",
+      "descrizione": "Guida Sicura",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 903,
+      "codice": "000903",
+      "descrizione": "Impianti fotovoltaici",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 68,
+      "codice": "000044",
+      "descrizione": "Incendio \"Eventi speciali\"",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 69,
+      "codice": "000046",
+      "descrizione": "Incendio granaglie",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 59,
+      "codice": "099035",
+      "descrizione": "Incendio \"Ramo 35\"",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 60,
+      "codice": "099048",
+      "descrizione": "Incendio \"Ramo 48\"",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 61,
+      "codice": "099068",
+      "descrizione": "Incendio \"Ramo 68\"",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 54,
+      "codice": "093",
+      "descrizione": "Incendio rischi industriali",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 74,
+      "codice": "000080",
+      "descrizione": "Incendio rischi industriali 40",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 501,
+      "codice": "000502",
+      "descrizione": "Incendio rischi ordinari",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 890,
+      "codice": "000505",
+      "descrizione": "Incendio rischi ordinari 2013",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 1038,
+      "codice": "001022",
+      "descrizione": "Income Protection",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1046,
+      "codice": "000175",
+      "descrizione": "Income Protection - IP01",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 1033,
+      "codice": "000174",
+      "descrizione": "Income Protection (IPxx)",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 540,
+      "codice": "IDA1",
+      "descrizione": "INDEX1 - ASS. TERMINE FISSO INDIC. A VERS.TO UNICO",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 541,
+      "codice": "IDA2",
+      "descrizione": "INDEX2 - ASS. TERMINE FISSO INDIC. A VERS.TO UNICO",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 542,
+      "codice": "IDA3",
+      "descrizione": "INDEX3 - ASS. TERMINE FISSO INDIC. A VERS.TO UNICO",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 543,
+      "codice": "IDA4",
+      "descrizione": "INDEX4 - ASS. TERMINE FISSO INDIC. A VERS.TO UNICO",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 544,
+      "codice": "IDA5",
+      "descrizione": "INDEX5 - ASS. TERMINE FISSO INDIC. A VERS.TO UNICO",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 545,
+      "codice": "IDA6",
+      "descrizione": "INDEX6 - ASS. TERMINE FISSO INDIC. A VERS.TO UNICO",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 79,
+      "codice": "000112",
+      "descrizione": "Infortuni aeronautici",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 956,
+      "codice": "000509",
+      "descrizione": "Infortuni collettivita'",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 508,
+      "codice": "000508",
+      "descrizione": "Infortuni cumulativa aziende",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 26,
+      "codice": "040",
+      "descrizione": "INSIEME duemila",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1051,
+      "codice": "IP01",
+      "descrizione": "IP01-Income protection",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 27,
+      "codice": "027",
+      "descrizione": "ITINERARI duemila",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 949,
+      "codice": "LTC0",
+      "descrizione": "LTC0-Mente Serena Elisir",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 507,
+      "codice": "000504",
+      "descrizione": "Malattia - Infortuni Collettivita'",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 1078,
+      "codice": "001030",
+      "descrizione": "Menteserena Collettivita'",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1041,
+      "codice": "001023",
+      "descrizione": "MenteSerena Domus",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1056,
+      "codice": "001026",
+      "descrizione": "MENTESERENA  Domus",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1028,
+      "codice": "001020",
+      "descrizione": "MenteSerena Easy",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1018,
+      "codice": "001018",
+      "descrizione": "MenteSerena Premium",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1053,
+      "codice": "001025",
+      "descrizione": "MENTESERENA  Premium",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1060,
+      "codice": "001027",
+      "descrizione": "MENTESERENA  Unico",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1079,
+      "codice": "001031",
+      "descrizione": "MENTESERENA_Unico",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 990,
+      "codice": "MP02.",
+      "descrizione": "MP02-PIU PROTETTI FORMULA MUTUO",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1005,
+      "codice": "MP03.",
+      "descrizione": "MP03-Copertura ass. abbinata ai finanziamenti",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 81,
+      "codice": "003",
+      "descrizione": "Multigaranzie commercianti",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 503,
+      "codice": "000503",
+      "descrizione": "Multilinea Imprese",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 965,
+      "codice": "000511",
+      "descrizione": "Multilinea RE",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 895,
+      "codice": "000895",
+      "descrizione": "MULTIRISCHI ABITAZIONE per BANCASSURANCE",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 1061,
+      "codice": "001061",
+      "descrizione": "Multi Ubicazione",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1012,
+      "codice": "169",
+      "descrizione": "My Protection",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1029,
+      "codice": "001021",
+      "descrizione": "My  Protection",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1025,
+      "codice": "P_16FC",
+      "descrizione": "My Protection - Premorienza FUMATORE",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1026,
+      "codice": "P_16NC",
+      "descrizione": "My Protection - Premorienza NON FUMATORE",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1019,
+      "codice": "170",
+      "descrizione": "My Protection X preventivo TCM",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 118,
+      "codice": "CAU300",
+      "descrizione": "Obblighi di leg Accert CAU300",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 34,
+      "codice": "000118",
+      "descrizione": "Officium",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 53,
+      "codice": "000501",
+      "descrizione": "Ondamica - Natanti",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 80,
+      "codice": "000153",
+      "descrizione": "Orefici e gioiellieri-mini-block",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 490,
+      "codice": "016",
+      "descrizione": "PARTNER PROFESSIONISTI (EDIZIONE 1993)",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 938,
+      "codice": "000938",
+      "descrizione": "PiuProtetti Agricoltura",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 1064,
+      "codice": "001029",
+      "descrizione": "Piu' Protetti Formula Persona",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 63,
+      "codice": "000157",
+      "descrizione": "PluriAttiva Infortuni",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 513,
+      "codice": "050",
+      "descrizione": "PolizzaAssicurazioniDecennalePostumaDanniDIrettiO",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 85,
+      "codice": "077",
+      "descrizione": "Polizza cauzionale",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 94,
+      "codice": "087",
+      "descrizione": "Polizza cauzionale agenzie di affari",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 86,
+      "codice": "078",
+      "descrizione": "Polizza cauzionale coltivazione cave",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 87,
+      "codice": "079",
+      "descrizione": "Polizza cauzionale contratti di locazione",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 84,
+      "codice": "075",
+      "descrizione": "Polizza cauzioni appalti pubblici",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 89,
+      "codice": "081",
+      "descrizione": "Polizza cauzioni appalti pubblici-provvisoria",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 90,
+      "codice": "082",
+      "descrizione": "Polizza cauzioni iva annuale",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 91,
+      "codice": "083",
+      "descrizione": "Polizza cauzioni iva infrannuale",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 95,
+      "codice": "088",
+      "descrizione": "Polizza cauzioni urbanizzazione costo costruzione",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 512,
+      "codice": "051",
+      "descrizione": "PolizzaDiAssicurazioneLeasing",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 82,
+      "codice": "039",
+      "descrizione": "Polizza di assicurazione leasing immobiliare",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 67,
+      "codice": "000043",
+      "descrizione": "Polizza elettronica",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 92,
+      "codice": "084",
+      "descrizione": "Polizza fidejussoria",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 509,
+      "codice": "017",
+      "descrizione": "Polizza impianti e apparecchiature elettroniche",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 101,
+      "codice": "092",
+      "descrizione": "Polizza Iva per i ricorsi avverso avvisi rettifica",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 76,
+      "codice": "000085",
+      "descrizione": "Polizza leasing",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 66,
+      "codice": "000039",
+      "descrizione": "Polizza Multirischi",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 49,
+      "codice": "099092",
+      "descrizione": "Polizza ramo 92",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 83,
+      "codice": "074",
+      "descrizione": "Polizza RC inquinamento",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 99,
+      "codice": "103",
+      "descrizione": "Polizze fidejussorie tutela acquirenti immobili",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 954,
+      "codice": "000499",
+      "descrizione": "Prodotto CAMPAGNE",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 38,
+      "codice": "000038",
+      "descrizione": "prodotto prova test",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 489,
+      "codice": "099033",
+      "descrizione": "Prodotto Ramo 33",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 57,
+      "codice": "099026",
+      "descrizione": "Progettazione e direzione lavori",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 1008,
+      "codice": "000163",
+      "descrizione": "Protezione All Business",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 31,
+      "codice": "000082",
+      "descrizione": "Protezione Famiglia",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1023,
+      "codice": "000516",
+      "descrizione": "Protezione Infortuni Collettivita'",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1069,
+      "codice": "001059",
+      "descrizione": "QAV Contraente",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 1058,
+      "codice": "001058",
+      "descrizione": "Questionario",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 1083,
+      "codice": "001062",
+      "descrizione": "Questionario di adeguata verifica Vita (LifePro)",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 1080,
+      "codice": "001060",
+      "descrizione": "Questionario Regolamento 45",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 104,
+      "codice": "167",
+      "descrizione": "QuiAbito - CASA",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 3,
+      "codice": "000158",
+      "descrizione": "QuiSicuraSalute",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 464,
+      "codice": "112",
+      "descrizione": "Raccolta trasporto e smalitmento rifiuti no tossic",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 468,
+      "codice": "000089",
+      "descrizione": "RCA RAMO 90",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 466,
+      "codice": "000090",
+      "descrizione": "RCA RAMO 90 NATANTI",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 467,
+      "codice": "000088",
+      "descrizione": "RCA RAMO 93",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 497,
+      "codice": "000140",
+      "descrizione": "RC Generale",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 889,
+      "codice": "000141",
+      "descrizione": "RC Generale 2015",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 78,
+      "codice": "000099",
+      "descrizione": "RC Inquinamento",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 547,
+      "codice": "000547",
+      "descrizione": "RC Prodotti",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 62,
+      "codice": "000027",
+      "descrizione": "RC professionisti",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 65,
+      "codice": "000032",
+      "descrizione": "RC rischi agricoli",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 1000,
+      "codice": "0101",
+      "descrizione": "RCV 2016",
+      "categoria": "Trasporti",
+      "idCategoria": 15
+    },
+    {
+      "id": 999,
+      "codice": "0100",
+      "descrizione": "RCV Targh",
+      "categoria": "Trasporti",
+      "idCategoria": 15
+    },
+    {
+      "id": 998,
+      "codice": "099",
+      "descrizione": "RCV Targhe",
+      "categoria": "Trasporti",
+      "idCategoria": 15
+    },
+    {
+      "id": 43,
+      "codice": "000154",
+      "descrizione": "Realta' fabbricati",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 549,
+      "codice": "000156",
+      "descrizione": "Realta' Persona",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 123,
+      "codice": "CAU320",
+      "descrizione": "Regolamenti CEE CAU320",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 120,
+      "codice": "CAU330",
+      "descrizione": "Regolamenti CEE indir CAU330",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 957,
+      "codice": "000510",
+      "descrizione": "RGA",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 106,
+      "codice": "CAU360",
+      "descrizione": "Rimborsi d imposta CAU360",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 75,
+      "codice": "000084",
+      "descrizione": "Rischi montaggio",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 13,
+      "codice": "100",
+      "descrizione": "Ritiro Patente",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 77,
+      "codice": "000086",
+      "descrizione": "Sicura",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 994,
+      "codice": "000513",
+      "descrizione": "SOS COPERTURE",
+      "categoria": "Auto",
+      "idCategoria": 1
+    },
+    {
+      "id": 88,
+      "codice": "080",
+      "descrizione": "Svincolo ritenute garanzia a fine lavori",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 555,
+      "codice": "CBT .",
+      "descrizione": "TCM A P.U.\tCBT .",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 865,
+      "codice": "87F .",
+      "descrizione": "TC M+INV PU\t87F .",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 871,
+      "codice": "88ID.",
+      "descrizione": "TC M+INV PU\t88ID.",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 724,
+      "codice": "MP01.",
+      "descrizione": "TCM MUTUO A P.U.\tMP01.",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 777,
+      "codice": "06.2.",
+      "descrizione": "TCM PA NF\t06.2.",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 800,
+      "codice": "095U.",
+      "descrizione": "TEMP DECR PU\t095U.",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 803,
+      "codice": "097U.",
+      "descrizione": "TEMP DECR PU\t097U.",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 454,
+      "codice": "097A.",
+      "descrizione": "TEMP. GR. MORTE INV.-A",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 550,
+      "codice": "000120",
+      "descrizione": "Tempopieno",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 532,
+      "codice": "09.5W",
+      "descrizione": "TEMPORANEA  DECRESCENTE DI 1 / N",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 535,
+      "codice": "07.5W",
+      "descrizione": "TEMPORANEA FUMATORI",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 533,
+      "codice": "06.5W",
+      "descrizione": "TEMPORANEA NON FUMATORI",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 534,
+      "codice": "06.6W",
+      "descrizione": "TEMPORANEA TOP",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1020,
+      "codice": "001019",
+      "descrizione": "TEST Vita",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 96,
+      "codice": "094",
+      "descrizione": "Trasporti",
+      "categoria": "Trasporti",
+      "idCategoria": 15
+    },
+    {
+      "id": 539,
+      "codice": "000134",
+      "descrizione": "TRASPORTI",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 48,
+      "codice": "097",
+      "descrizione": "Tutela Giudiziaria",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 45,
+      "codice": "023",
+      "descrizione": "Tutela Legale",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 33,
+      "codice": "000125",
+      "descrizione": "Tutela professione area legale fiscale ed amm.",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 37,
+      "codice": "000123",
+      "descrizione": "Tutela professione area medico-sanitaria",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 39,
+      "codice": "000138",
+      "descrizione": "Tutela professione area progettuale edile",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 510,
+      "codice": "045",
+      "descrizione": "TuttiIRischiDellaCostruzioneDiOpereCivili",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 511,
+      "codice": "046",
+      "descrizione": "Tutti i rischi di montaggio",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 70,
+      "codice": "000047",
+      "descrizione": "Tutti rischi costruttore",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 506,
+      "codice": "000115",
+      "descrizione": "Tuttocampo",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 1013,
+      "codice": "000116",
+      "descrizione": "Tuttocampo Persone Giuridiche",
+      "categoria": "Rami Elementari Tradizionali",
+      "idCategoria": 9
+    },
+    {
+      "id": 515,
+      "codice": "UAC1",
+      "descrizione": "UAC1-NOUVEAU",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 516,
+      "codice": "UAC2",
+      "descrizione": "UAC2-NOUVEAU PLUS",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 517,
+      "codice": "UAU1",
+      "descrizione": "UAU1-NOUVEAU",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 518,
+      "codice": "UBC1",
+      "descrizione": "UBC1-UNITERCAS",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 519,
+      "codice": "UBU1",
+      "descrizione": "UBU1-UNITERCAS",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1057,
+      "codice": "000939",
+      "descrizione": "Unicredit Agricoltura",
+      "categoria": "Rami Speciali",
+      "idCategoria": 12
+    },
+    {
+      "id": 520,
+      "codice": "UR1",
+      "descrizione": "UNIT A VERSAMENTO ANNUO",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 522,
+      "codice": "UR2",
+      "descrizione": "UNIT A VERSAMENTO ANNUO CON TEMPORANEA CASO MORTE",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 524,
+      "codice": "UR2.R",
+      "descrizione": "UNIT AVERSAMENTO ANNUO - PARTE FINANZIARIA",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 530,
+      "codice": "WAC2.R",
+      "descrizione": "UNIT AVERSAMENTO ANNUO - PARTE FINANZIARIA.",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 525,
+      "codice": "UTU",
+      "descrizione": "UNIT A VERSAMENTO UNICO",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 1071,
+      "codice": "CAU131",
+      "descrizione": "Urbanizzazione cz 131",
+      "categoria": "Cauzioni",
+      "idCategoria": 11
+    },
+    {
+      "id": 521,
+      "codice": "UR1.A",
+      "descrizione": "VERSAMENTO AGGIUNTIVO SU UR1",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 523,
+      "codice": "UR2.A",
+      "descrizione": "VERSAMENTO AGGIUNTIVO SU UR2",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 527,
+      "codice": "WAC1.A",
+      "descrizione": "VERSAMENTO AGGIUNTIVO SU WAC1",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 529,
+      "codice": "WAC2.A",
+      "descrizione": "VERSAMENTO AGGIUNTIVO SU WAC2",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 538,
+      "codice": "000133",
+      "descrizione": "VITA",
+      "categoria": "Rami Elementari Standard",
+      "idCategoria": 2
+    },
+    {
+      "id": 526,
+      "codice": "WAC1",
+      "descrizione": "WAC1-NOUVEAU",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 528,
+      "codice": "WAC2",
+      "descrizione": "WAC2-NOUVEAU PLUS",
+      "categoria": "Vita",
+      "idCategoria": 10
+    },
+    {
+      "id": 531,
+      "codice": "WAU1",
+      "descrizione": "WAU1-NOUVEAU",
+      "categoria": "Vita",
+      "idCategoria": 10
+    }
+  ],
+  "messages": [],
+  "time": "2022-11-09T08:05:10.783+00:00",
+  "ppMessages": []
+}
