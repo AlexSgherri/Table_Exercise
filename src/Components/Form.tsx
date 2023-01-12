@@ -10,16 +10,16 @@ import {
     TextField
 } from "@mui/material";
 import React, {useState} from "react";
-import {CategoryData} from "../App";
+import {useDispatch, useSelector} from "react-redux";
+import {filter} from "../redux/itemSlice";
+import {RootState} from "../redux/store";
 
-type Props = {
-    categoryData: CategoryData,
-    handleClick: (codice: string , descrizione: string, categoria:string )=> void,
-}
-export function Form({categoryData, handleClick}: Props) {
+export function Form() {
     const [codice, setCodice] = useState<string>('');
     const [descrizione, setDescrizione] = useState<string>('');
-    const [category, setCategory] = useState<string>('');
+    const [categoria, setCategory] = useState<string>('');
+    const {categoryInfo} = useSelector((state:RootState) => state.items);
+    const dispatch = useDispatch();
     const handleSelectChange = (event: SelectChangeEvent) => {
         setCategory(event.target.value);
     };
@@ -40,35 +40,36 @@ export function Form({categoryData, handleClick}: Props) {
             autoComplete="off"
         >
             <Box>
-                <Grid container justifyContent="flex-end" spacing={10}>
+                <Grid container justifyContent="flex-end" spacing={1}>
 
                     <Grid item xs={4}>
-                        <TextField onChange={handleTextfieldChange} sx={{width: "250px"}} id="code-label" label="codice" value={codice} variant="outlined"/>
+                        <TextField onChange={handleTextfieldChange} sx={{maxWidth: "250px"}} id="code-label" label="codice" value={codice} variant="outlined"/>
                     </Grid>
 
                     <Grid item xs={4}>
-                        <TextField onChange={handleTextfieldChange} sx={{width: "250px"}} id="description-label" value={descrizione} label="descrizione" variant="outlined"/>
+                        <TextField onChange={handleTextfieldChange} sx={{maxWidth: "250px"}} id="description-label" value={descrizione} label="descrizione" variant="outlined"/>
                     </Grid>
 
                     <Grid item xs={4}>
                         <FormControl fullWidth>
                             <InputLabel id="category-label">category</InputLabel>
-                            <Select sx={{width: "250px"}} value={category}
+                            <Select sx={{maxWidth: "250px"}} value={categoria}
                                     labelId="category-label"
                                     label="categoria"
                                     variant="outlined" onChange={handleSelectChange}>
                                 <MenuItem value="">
                                     <em>None</em>
                                 </MenuItem>
-                                {Object.keys(categoryData).map((item) => <MenuItem value={categoryData[item]}
-                                                                                   key={categoryData[item]}>{item}</MenuItem>)}
+                                {Object.keys(categoryInfo).map((item) => <MenuItem value={item}
+                                                                                   key={item}>{categoryInfo[item]}</MenuItem>)}
                             </Select>
                         </FormControl>
                     </Grid>
 
                     <Grid item xs={2}>
-                        <Button variant="contained" onClick={()=> {
-                            handleClick(codice, descrizione, category);
+                        <Button style={{marginTop:"1rem"}}type="submit" variant="contained" onClick={(e:React.FormEvent<EventTarget>)=> {
+                            e.preventDefault();
+                            dispatch(filter({codice, descrizione, categoria}));
                             setCodice('');
                             setDescrizione('');
                             setCategory('');
