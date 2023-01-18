@@ -1,22 +1,9 @@
-import React, {useState} from 'react';
+import React from 'react';
 import './App.css';
 import {Header} from "./Components/Header";
 import {Form} from "./Components/Form";
 import {TableList} from "./Components/TableList";
-import {useSelector} from "react-redux";
-import {RootState} from "./redux/store";
-import {MockData} from "./redux/itemSlice";
-
-
-
-type CategoryData = {
-    [key: string]: string | number,
-}
-
-
-// Reduce per isolare le coppie con idCategoria univoco nell'array di oggetti
-
-
+import MockForm from "./Components/MockForm";
 
 /*{
     // "idCategoria": "categoria"
@@ -41,6 +28,7 @@ function App() {
             <main>
                 <Form/>
                 <TableList/>
+                {/*<MockForm/>*/}
             </main>
         </>
     );
