@@ -1,5 +1,5 @@
 import {Box, Button, FormControl, Grid, InputLabel, MenuItem, Select, TextField} from "@mui/material";
-import React, {useEffect} from "react";
+import React, {useEffect, useState} from "react";
 import {filter} from "../redux/itemSlice";
 import {useAppDispatch, useAppSelector} from "../redux/store";
 import {fetchPosts} from "../redux/postSlice";
@@ -12,6 +12,11 @@ interface FormInput {
 }
 
 export function Form() {
+    const [focusState, setFocusState] = useState({
+        codice: false,
+        descrizione: false,
+        categoria:false,
+    })
     const {register, handleSubmit, setFocus, control, watch, reset} = useForm<FormInput>({
         defaultValues: {
             codice: "",
@@ -19,6 +24,8 @@ export function Form() {
             categoria: "",
         }
     })
+    const [labelDescrizione, labelCodice] = watch(["descrizione", "codice"])
+    console.log(labelDescrizione)
     const {categoryInfo} = useAppSelector((state) => state.items);
     const dispatch = useAppDispatch();
 
@@ -50,12 +57,21 @@ export function Form() {
                 <Grid container justifyContent="flex-end" spacing={1}>
 
                     <Grid item xs={4}>
-                        <TextField {...register("codice")} sx={{maxWidth: "250px"}} id="code-label" label="codice"
+                        <TextField {...register("codice")}
+                                   InputLabelProps={{shrink: (labelCodice==="" && !focusState.codice )  ? false : true}}
+                                   onFocus={()=> setFocusState(prev => {return{...prev, codice: true}})}
+                                   onBlur={()=> setFocusState(prev => {return{...prev, codice: false}})}
+                                   sx={{maxWidth: "250px"}} id="code-label" label="codice"
                                    variant="outlined"/>
                     </Grid>
 
                     <Grid item xs={4}>
-                        <TextField {...register("descrizione")} sx={{maxWidth: "250px"}} id="description-label"
+                        <TextField {...register("descrizione")}
+                            InputLabelProps={{shrink: (labelDescrizione==="" && !focusState.descrizione )  ? false : true}}
+                                   sx={{maxWidth: "250px"}}
+                                   onFocus={()=> setFocusState(prev => {return{...prev, descrizione: true}})}
+                                   onBlur={()=> setFocusState(prev => {return{...prev, descrizione: false}})}
+                                   id="description-label"
                                    label="descrizione" variant="outlined"/>
                     </Grid>
 
