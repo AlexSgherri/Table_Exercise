@@ -32,6 +32,7 @@ export function Form() {
     // handle form Reset
     const handleReset = () => {
         reset()
+        dispatch(filter({descrizione: "", codice:"", categoria:""}))
     }
 
     // Set the focus on Mount

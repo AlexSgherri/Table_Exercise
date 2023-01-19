@@ -4,6 +4,7 @@ import {Header} from "./Components/Header";
 import {Form} from "./Components/Form";
 import {TableList} from "./Components/TableList";
 import MockForm from "./Components/MockForm";
+import {TestFormMUI} from "./Components/TestFormMUI";
 
 /*{
     // "idCategoria": "categoria"
@@ -26,9 +27,10 @@ function App() {
     return (<>
             <Header/>
             <main>
-                <Form/>
-                <TableList/>
+                {/*<Form/>*/}
+                {/*<TableList/>*/}
                 {/*<MockForm/>*/}
+                <TestFormMUI/>
             </main>
         </>
     );

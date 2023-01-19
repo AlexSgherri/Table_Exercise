@@ -1,12 +1,14 @@
 import {configureStore} from "@reduxjs/toolkit";
 import itemReducer from "./itemSlice";
 import postReducer from "./postSlice";
+import formDataReducer from "./formDataSlice";
 import {TypedUseSelectorHook, useDispatch, useSelector} from "react-redux";
 
 export const store = configureStore({
     reducer: {
         items: itemReducer,
         posts: postReducer,
+        formData: formDataReducer,
     }
 })
 
