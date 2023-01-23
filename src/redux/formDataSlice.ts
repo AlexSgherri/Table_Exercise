@@ -1,33 +1,81 @@
 import {createSlice} from "@reduxjs/toolkit";
 import type {PayloadAction} from "@reduxjs/toolkit";
 
-const hobby = [
-    "Calcio", "Scacchi",
-    "Videogames", "Studio",
-    "Lettura", "Fotografia",
-    "Viaggiare", "Bicicletta",
-    "Pallavolo", "Paddel"
+type Hobby = {
+    id: number,
+    name: string
+}
+
+const hobby: Hobby[] = [{
+    id: 1, name: "Calcio"},
+    {
+        id: 2, name: "Scacchi"
+    }
+    ,
+    {
+        id: 3, name: "Videogames"
+    }
+    ,
+    {
+        id: 4, name: "Studio"
+    }
+    ,
+    {
+        id: 5, name: "Lettura"
+    }
+    ,
+    {
+        id: 6, name: "Fotografia"
+    }
+    ,
+    {
+        id: 7, name: "Viaggiare"
+    }
+    ,
+    {
+        id: 8, name: "Bicicletta"
+    }
+    ,
+    {
+        id: 9, name: "Pallavolo"
+    }
+    ,
+    {
+        id: 10, name: "Paddel"
+    }
+]
+
+const socialState: string[] = [
+    "lavoro", "in cerca di lavoro",
+    "disoccupato", "altro"
 ]
 
 type InitialState = {
-    hobby: string[]
+    hobby: Hobby[],
+    socialState: string[]
+}
+
+type PayloadObject = {
+    category: string,
+    item: string
 }
 
 const initialState: InitialState = {
-    hobby: hobby
+    hobby,
+    socialState
 }
 
 export const formDataSlice = createSlice({
     name: "formData",
     initialState,
     reducers: {
-        add:(state,action)=>{
-            if (initialState.hobby.includes(action.payload)) initialState.hobby.push(action.payload)
+        add: (state, action) => {
+            if (initialState.hobby.includes(action.payload.item)) initialState.hobby.push(action.payload)
         },
-        remove: (state, action) =>{
-            initialState.hobby = initialState.hobby.filter((item)=> item !== action.payload)
+        remove: (state, action) => {
+            initialState.hobby = initialState.hobby.filter((item) => item !== action.payload)
         },
-        reset:(state)=>{
+        reset: (state) => {
             initialState.hobby = []
         }
     }
