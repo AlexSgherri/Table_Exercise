@@ -5,6 +5,7 @@ import {Form} from "./Components/Form";
 import {TableList} from "./Components/TableList";
 import MockForm from "./Components/MockForm";
 import {TestFormMUI} from "./Components/TestFormMUI";
+import {TestDataGrid} from "./Components/TestDataGrid";
 
 /*{
     // "idCategoria": "categoria"
@@ -31,6 +32,7 @@ function App() {
                 {/*<TableList/>*/}
                 {/*<MockForm/>*/}
                 <TestFormMUI/>
+                {/*<TestDataGrid/>*/}
             </main>
         </>
     );
